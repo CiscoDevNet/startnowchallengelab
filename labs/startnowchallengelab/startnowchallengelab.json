@@ -1,0 +1,39 @@
+
+  "labId": "startnowchallengelab",
+  "title": "startnowchallengelab",
+  "slug": "In this lab, you will be challenged with applying what you've learned from the Start Now courses at Dev Day",
+  "time": 15,
+  "byod": true,
+  "files":
+  [
+    {
+      "title": "Exercise",
+      "file":"1-exercise.md"
+    }
+  ],
+  "tags":
+  [
+
+  ],
+  "related":
+  [
+  ],
+  "authors":
+  [
+    {
+      "name": "Matthew DeNapoli",
+      "email": "mdenapol@cisco.com"
+    }
+  ],
+  "replaceAtRender": {
+  "default": [
+    {
+      "type": "general",
+      "fields": [
+        {"find": "{{exercise}}", "replace": "<iframe src=\"https://4f1567ec589b.ngrok.io/intro\" frameborder=\"0\" style=\"height:10000px;width:100%\"></iframe><p><strong>Please Do Not Hit the Green Arrow buttons</p></strong>"}
+      ]
+    }
+  ]
+},
+  "active": true
+}
