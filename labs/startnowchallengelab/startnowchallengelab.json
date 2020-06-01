@@ -30,7 +30,7 @@
     {
       "type": "general",
       "fields": [
-        {"find": "{{exercise}}", "replace": "<iframe src=\"https://4f1567ec589b.ngrok.io/intro\" frameborder=\"0\" style=\"height:10000px;width:100%\"></iframe><p><strong>Please Do Not Hit the Green Arrow buttons</p></strong>"}
+        {"find": "{{exercise}}", "replace": "<iframe src=\"https://lg7amtvd1d.execute-api.us-east-1.amazonaws.com/dev/intro\" frameborder=\"0\" style=\"height:10000px;width:100%\"></iframe><p><strong>Please Do Not Hit the Green Arrow buttons</p></strong>"}
       ]
     }
   ]
