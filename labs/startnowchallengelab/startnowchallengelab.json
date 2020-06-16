@@ -6,6 +6,10 @@
   "byod": true,
   "files":
   [
+        {
+      "title": "Introduction",
+      "file":"0-intro.md"
+    },
     {
       "title": "Exercise",
       "file":"1-exercise.md"
