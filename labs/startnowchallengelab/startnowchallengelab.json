@@ -3,7 +3,7 @@
   "title": "Start Now Challenge Lab",
   "slug": "In this lab, you will be challenged with applying what you've learned from the Start Now courses at Dev Day",
   "time": 15,
-  "byod": false,
+  "byod": true,
   "files":
   [
         {
